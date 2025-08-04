@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atulbhai1
 - 👀 I’m interested in python!
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on python and html projects
 - 📫 How to reach me email atulbhai.nitin@gmail.com
 
